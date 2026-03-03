@@ -123,14 +123,14 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-python-service/.env
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-bot-csharp/YacchoBot/*.env
+*.env
+.env
 
 # Spyder project settings
 .spyderproject
